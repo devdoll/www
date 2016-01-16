@@ -1,4 +1,4 @@
 <?php
-echo 'Hello World~!';
-echo '<hr/>';
+var_dump('Hello World~!');
+echo 'hello xiaoyu <br/>';
 phpinfo();
